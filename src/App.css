@@ -1,6 +1,11 @@
-.images-list{
+.images-list {
     display: flex;
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-}
+  }
+  
+  .loadingMsg {
+    margin: 30%;
+  }
+  
